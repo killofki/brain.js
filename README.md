@@ -7,6 +7,8 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brain-js/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Slack](https://slack.bri.im/badge.svg)](https://slack.bri.im)
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FBrainJS%2Fbrain.js%2Fbadge%3Fref%3Dmaster&style=flat)](https://actions-badge.atrox.dev/BrainJS/brain.js/goto?ref=master)
 
++ killofki forked + 
+
 ## About
 
 `brain.js` is a GPU accelerated library for [Neural Networks](http://en.wikipedia.org/wiki/Artificial_neural_network) written in JavaScript.
